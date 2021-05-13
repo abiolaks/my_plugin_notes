@@ -1,0 +1,4 @@
+<C-p> to enter ctrlp fuzzyfinder search
+<C-k and <C-j> to navigate up and down
+:ctrlpbuffer  to search buffer
+ctrld to search through file in ctrlp mode
